@@ -1,0 +1,413 @@
+@charset "UTF-8";
+.logo{
+	font-family:Luminari, fantasy;
+	font-size: 30px;
+}
+
+header{
+  margin-right:250px;
+}
+nav{
+ align-content:center;
+}
+
+nav li{
+	float: left;
+	vertical-align: middle;
+	display: inline-block;
+	
+	padding: 10px;
+ 
+}
+
+.Redes{
+    margin-bottom:15px;
+}
+
+
+.Redes a:link, .Redes a:visited{
+	background-color: #001566;
+	text-decoration:none;
+	color:white;
+	border-radius: 10px;
+	padding: 10px 24px;
+	font-size: 18px;
+	font-family: "Stencil";
+}
+
+
+.descM{
+	font-size: 18px;
+	padding-top: 35px;
+	font-family: "Stencil";
+  margin-bottom:50px;
+	
+}
+.logo {
+	text-align: center;
+}
+
+
+.imgPRINC{
+	float: left;
+	margin-bottom:;
+}
+
+
+.DescRed{
+	margin-right: 50px;
+	margin-left: 580px;
+	text-align: left;
+	padding-bottom: 70px;
+  width:300px;
+}
+nav ul{
+  
+     border-radius:8px;
+    list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: #1D1D1D;
+	font-size: 17px;
+	font-family: "Stencil";
+  margin-right:100px;
+  
+ 
+}
+
+nav a:link, nav a:visited{
+	background-color: #1D1D1D;
+	display: block;
+	padding: 5px;
+	color:white;
+	text-decoration: none;
+ 
+}
+nav a:hover{
+	background-color: black;
+}
+
+.vIntro{
+  width:500px;
+  margin-left:50px;
+  margin-bottom:100px;
+}
+
+.SIJ{
+  display:inline-block;
+  margin-left:100px;
+  padding-right:270px;
+  background-color:#000e7a;
+  border-radius:150px;
+  height:80px;
+  width:500px;
+}
+
+.SIG{
+    position:relative;
+  top:-70px;
+  left:190px;
+  font-size:70px;
+   font-family:"Courier New", Courier, monospace; 
+  color:#b3bbff;
+}
+
+.steam{
+  display:inline-block;
+  margin-left:100px;
+  padding-right:300px;
+  text-decoration:none;
+  background-color:black;
+  text-align:center;
+  border-radius:150px;
+  height:175px;
+  width:750px;
+  margin-bottom:20px;
+}
+
+.twitter{
+  display:inline-block;
+  margin-left:100px;
+  padding-right:300px;
+  text-decoration:none;
+  background-color:#0fb2f2;
+  text-align:center;
+  border-radius:150px;
+  height:175px;
+  width:750px;
+  margin-bottom:20px;
+}
+
+.Stexto{
+  position:relative;
+  top:-100px;
+  left:50px;
+  font-size:120px;
+   font-family:"Courier New", Courier, monospace; 
+  color:white;
+}
+
+.Ttexto{
+  position:relative;
+  top:-70px;
+  left:20px;
+  font-size:100px;
+   font-family:"Courier New", Courier, monospace; 
+  color:white;
+}
+
+.logoS{
+  position:relative;
+  left:50px;
+  top:-100px;
+  border-radius:100px;
+ }
+
+.logoT{
+  position:relative;
+  left:50px;
+  top:-70px;
+  border-radius:100px;
+}
+
+.instagram{
+  display:inline-block;
+  margin-left:100px;
+  padding-right:300px;
+  text-decoration:none;
+  background-color:#e681db;
+  text-align:center;
+  border-radius:150px;
+  height:175px;
+  width:750px;
+  margin-bottom:45px;
+}
+.logoI{
+   position:relative;
+  left:50px;
+  top:-35px;
+  border-radius:10px;
+}
+.Itexto{
+   position:relative;
+  top:-35px;
+  left:20px;
+  font-size:80px;
+   font-family:"Courier New", Courier, monospace; 
+  color:white;
+}
+
+
+
+.camp1{
+  position:relative;
+  left:200px;
+}
+
+.campDesc{
+  position:relative;
+  width:620px;
+  left:170px;
+  font-family:sans-serif;
+  font-size:21px;
+}
+
+.imgCamp1{
+  
+  position:relative;
+  left:140px;
+  border-radius:10px;
+}
+
+
+
+table.patrocinadores {
+ 
+  margin-left: 200px;
+  margin-right: 490px;
+ 
+ 
+}
+
+
+
+.camp2{
+  float:left;
+  position:relative;
+  left:100px;
+  margin-bottom:100px;
+}
+
+.camp3{
+  position:relative;
+  left:-144px;
+}
+
+.camp4{
+  position:relative;
+  top: 450px;
+  left:-300px;
+  margin-bottom:60px;
+}
+
+.camp5{
+  position:relative;
+  top: 570px;
+  left:-160px;
+  margin-bottom:60px;
+}
+
+.imgPlat::after{
+  position:relative;
+  top:0px;
+  display:table;
+}
+
+td.pat{
+  text-align: center;
+ padding-bottom:70px;
+    border: 8px double black;
+}
+
+.pat (even){
+  background-color:red;
+}
+
+
+.patrocinadores{
+  position:relative;
+  float:left;
+  border: 8px double #12e6e6;
+  border-radius:10px;
+  margin-bottom:60px;
+  
+}
+
+.viaj{color: #ebebeb; text-shadow: 1px 1px 1px black; font-size:21px;}
+.esclavo{color:#7d6e57;text-shadow:1px 1px 1px black; font-size:17px;}
+.guerrero{color:#855611;text-shadow:1px 1px 1px black;}
+.vidente{color:#1b8224;text-shadow:1px 1px 1px black; font-size:20px;}
+.emperador{color:#b8ae2c;text-shadow:1px 1px 1px black; font-size:20px;}
+.imgPat{border-radius: 8px; border: 3px solid #04003d;}
+
+.obj{
+  position:relative;
+  left:230px;
+  margin-bottom:75px;
+  border-left:15px double #9939e3;
+  text-align:left;
+}
+
+.objTxt1{
+  font-size:30px;
+  font-family:sans-serif;
+  margin-bottom:50px;
+}
+
+.desDivParent{
+  position: relative;
+   float:left;
+  width: 30%;
+  margin-left:40px;
+}
+
+.desDiv{
+  display:inline-block;
+  height:300px;
+  width:850px;
+}
+
+.cartaD{
+  float:left;
+}
+
+
+
+.dere{
+    width:300px;
+    position:absolute;
+    left:950px;
+  }
+  
+.derecha {
+   overflow-y:scroll;
+  height:100vh;
+  top:0px;
+   position:fixed;
+  width:300px;
+}
+
+
+
+.drchaBloque{
+  border-style:outset;
+  border-width:2px;
+  margin-bottom:15px;
+}
+
+
+
+@media (max-width: 929px){
+
+}
+
+.dropbtn, .dropbtn1,.dropbtn2, .dropbtn3 {
+  background-color: #44cff2;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  
+}
+
+.dropbtn:hover, .dropbtn:focus,.dropbtn1:hover, .dropbtn1:focus,.dropbtn2:hover, .dropbtn2:focus, .dropbtn3:hover, .dropbtn3:focus {  background-color: #2980B9;}
+
+.dropdown {
+  position: relative;
+  left:-140px;
+  top:400px;
+  
+  float:left;
+}
+
+.dropdown-content, .dropdown-content1,.dropdown-content2, .dropdown-content3 {
+  display: none;
+  position: absolute;
+  background-color: #8d0899;
+  color:white;
+  z-index: 1;
+  border:1px solid #04003d;
+  border-radius:2px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  font-family:sans-serif;
+}
+
+.show {display:block;}
+
+.dropdown1 {
+  position: relative;
+  left:-550px;
+  top:460px; 
+  float:left;
+   transition: all .5s ease;
+}
+
+
+.dropdown2 {
+  position: relative;
+  left:-140px;
+  top:470px; 
+  float:left;
+}
+
+.dropdown3 {
+  position: relative;
+  left:-444px;
+  top:530px; 
+  float:left;
+}
+
