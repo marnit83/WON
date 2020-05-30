@@ -411,6 +411,13 @@ td.pat{
   float:left;
 }
 
+.comentarios{
+position:relative;
+	top:300px;
+	width:500px;
+}
+
+
 footer{
 	position:relative;
 	top:300px;
