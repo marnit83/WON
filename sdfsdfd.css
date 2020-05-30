@@ -427,9 +427,19 @@ width:850px;
 
 .discla{
   position:relative;
-  top:500px;
+  top:560px;
   margin-left:100px;
   margin-right:400px;
   font-style:italic;
   opacity:70;
+}
+
+.cansion{
+  position:relative;
+  top:15px;
+  left:-150px;
+  margin-bottom:30px;
+   text-align:center;
+  font-size:20px;
+  font-style: sans-serif;
 }
