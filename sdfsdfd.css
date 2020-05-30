@@ -425,3 +425,11 @@ left:50px;
 width:850px;
 }
 
+.discla{
+  position:relative;
+  top:500px;
+  margin-left:100px;
+  margin-right:400px;
+  font-style:italic;
+  opacity:70;
+}
