@@ -223,14 +223,13 @@ nav a:hover{
 
 
 table.patrocinadores {
- 
   margin-left: 200px;
   margin-right: 490px;
- 
- 
 }
 
-
+.tabla{
+  position:relative;
+}
 
 .camp2{
   float:left;
@@ -241,7 +240,8 @@ table.patrocinadores {
 
 .camp3{
   position:relative;
-  left:-144px;
+  left:200px;
+  top:-20px;
 }
 
 .camp4{
@@ -259,6 +259,13 @@ table.patrocinadores {
 }
 
 .imgPlat::after{
+  position:relative;
+  top:0px;
+  display:table;
+}
+
+
+.imgPlat2{
   position:relative;
   top:0px;
   display:table;
